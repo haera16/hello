@@ -1,2 +1,4 @@
-# hello
-Basic Introduction of me
+# Introdcution
+Name: Ashmita Singha
+
+
